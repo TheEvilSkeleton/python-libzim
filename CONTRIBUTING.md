@@ -99,4 +99,3 @@ python setup.py install
 - https://github.com/pypa/manylinux
 - https://github.com/RalfG/python-wheels-manylinux-build/blob/master/full_workflow_example.yml
 - https://packaging.python.org/guides/packaging-binary-extensions/#publishing-binary-extensions
-

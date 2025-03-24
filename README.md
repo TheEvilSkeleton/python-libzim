@@ -29,7 +29,7 @@ Our [PyPI wheels](https://pypi.org/project/libzim/) bundle a [recent release](ht
 
 Wheels are available for CPython only (but can be built for Pypy).
 
-Users on other platforms can install the source distribution (see [Building](#Building) below). 
+Users on other platforms can install the source distribution (see [Building](#Building) below).
 
 
 ## Contributions
